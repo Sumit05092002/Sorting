@@ -4,7 +4,7 @@ public class Insertion {
         int arr[]={1,10,7,4,8,2,11};
         insertion(arr,arr.length);
         for(int i=0;i<arr.length;i++){
-            System.out.print(arr[i]+" ");
+            System.out.print(arr[i]);
         }
     }
 
